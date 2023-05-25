@@ -4,7 +4,7 @@ This repository contains the course structure and a list of resources for learni
 
 ## Course Structure
 
-The course structure is defined in the [Course.md](Course.md) file. It includes a breakdown of the topics covered in the course, providing an overview and key points for each section.
+The course structure is defined in the [Course.md](course.md) file. It includes a breakdown of the topics covered in the course, providing an overview and key points for each section.
 
 ## Resources
 
